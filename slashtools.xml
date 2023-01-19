@@ -1,0 +1,21 @@
+1<?xml version="1.0" encoding="utf-8"?>
+<extension version="4.1.0" type="file" method="upgrade">
+    <name>Slash Tools</name>
+    <author>Brian Teeman</author>
+    <authorEmail>brian@teeman.net</authorEmail>
+    <authorUrl>https://www.learnjoomla4.com</authorUrl>
+    <copyright>Copyright Brian Teeman</copyright>
+    <license>GNU GPL v2 or later</license>
+    <version>1.0.0</version>
+    <creationDate>Jan 2023</creationDate>
+    <description>Editor Plugin for TinyMCE and Joomla</description>
+    <fileset>
+        <files folder="slashtools" target="media/plg_editors_tinymce/js/plugins/slashtools">
+            <file>plugin.js</file>
+            <file>plugin.min.js</file>
+        </files>
+    </fileset>
+    <updateservers>
+        <server type="extension" priority="1" name="Slash Tools">https://raw.githubusercontent.com/brianteeman/slashtools/main/update/manifest.xml</server>
+    </updateservers>
+</extension>
