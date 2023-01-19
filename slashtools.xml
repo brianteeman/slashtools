@@ -8,7 +8,7 @@
     <license>GNU GPL v2 or later</license>
     <version>1.0.0</version>
     <creationDate>Jan 2023</creationDate>
-    <description>Editor Plugin for TinyMCE and Joomla</description>
+    <description><![CDATA[Editor Plugin for TinyMCE and Joomla. To complete the installation please follow these simple <a href="https://github.com/brianteeman/slashtools#tinymce-configuration">instructions.</a>]]></description>
     <fileset>
         <files folder="slashtools" target="media/plg_editors_tinymce/js/plugins/slashtools">
             <file>plugin.js</file>
