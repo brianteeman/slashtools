@@ -22,3 +22,6 @@ After installing Slash Tools go to the Joomla Plugin Manager on the System dashb
 Once open scroll to the very bottom where you will see the option to add External Plugin URLs. Enter the word **slashtools** as the Plugin Name and **/media/plg_editors_tinymce/js/plugins/slashtools/plugin.js** as the Plugin URL.
 
 Save your change and that's all you need to do.
+
+### Demo Video
+https://youtube.com/watch?v=3dFT9V_WegM&si=EnSIkaIECMiOmarE
