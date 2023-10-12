@@ -140,7 +140,7 @@
                 return !isRedundantSeparator;
               });
 
-            return new tinymce.util.Promise(function (resolve) {
+            return new Promise((resolve) => {
               var results = matchedActions.map(function (action) {
                 return {
                   meta: action,
