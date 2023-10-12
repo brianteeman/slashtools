@@ -2,7 +2,7 @@
 
 ![slashtools](https://user-images.githubusercontent.com/1296369/213400986-47a4c614-14ea-4080-b409-9a450e6d83de.png)
 
-Slash Tools is a set of keyboard shortcuts to use when creating content with Joomla 4 and the default editor (TinyMCE).
+Slash Tools is a set of keyboard shortcuts to use when creating content with Joomla and the default editor (TinyMCE).
 
 Without the need to change your focus from the keyboard to the mouse while you are typing Slash Tools will improve productivity. In addition to providing faster, keyboard focused, commands to familiar features of the editor Slash Tools adds some missing features that you will wonder how you ever managed without them.
 
