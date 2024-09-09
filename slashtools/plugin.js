@@ -116,7 +116,7 @@
         ];
 
         editor.ui.registry.addAutocompleter("slashtools", {
-          ch: "/",
+          trigger: "/",
           minChars: 0,
           columns: 1,
 
