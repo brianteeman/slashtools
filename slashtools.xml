@@ -6,8 +6,8 @@
     <authorUrl>https://www.learnjoomla4.com</authorUrl>
     <copyright>Copyright Brian Teeman</copyright>
     <license>GNU GPL v2 or later</license>
-    <version>1.0.1</version>
-    <creationDate>Jan 2023</creationDate>
+    <version>1.0.2</version>
+    <creationDate>Sep 2024</creationDate>
     <description><![CDATA[Editor Plugin for TinyMCE and Joomla. To complete the installation please follow these simple <a href="https://github.com/brianteeman/slashtools#tinymce-configuration">instructions.</a>]]></description>
     <fileset>
         <files folder="slashtools" target="media/plg_editors_tinymce/js/plugins/slashtools">
