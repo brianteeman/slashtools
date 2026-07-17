@@ -50,7 +50,7 @@
             text: "Ordered list",
             icon: "ordered-list",
             action: () => {
-              editor.insertContent("<ul><li>List Item 1</li></ul>");
+              editor.insertContent("<ol><li>List Item 1</li></ol>");
               editor.selection.select(editor.selection.getNode());
             }
           },
